@@ -91,7 +91,7 @@ section {
   
 /* Start of Hero Section Styling */
 .hero {
-    background-image: url('');
+    background-image: url('./Images/Picture145.png');
     background-size: cover;
     background-attachment: fixed;
     background-position: 80%;    
