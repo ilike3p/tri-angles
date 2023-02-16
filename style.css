@@ -229,12 +229,12 @@ section {
 }
 
 /* Main Project Hover Styling */
-.surf-report:hover {
+.resume:hover {
     opacity: 75%;
 }
 
 /*  Image Styling */
-.led-wall {
+.rasta {
     background-image: url(./Images/shot-stash-colorful-programming-code.png);
     background-size: cover;
     width: 47.5%;
@@ -262,7 +262,7 @@ section {
     position: relative; 
 }
 
-/* Calculator Hover Styling */
+/*  Hover Styling */
 .calculator:hover {
     opacity: 75%;
 }
@@ -296,7 +296,7 @@ section {
     position: relative; 
 }
 
-/* Run Buddy Hover Styling */
+/* Hover Styling */
 .run-buddy:hover {
     opacity: 75%;
 }
